@@ -6,4 +6,4 @@ This repository contains writeups/walkthroughs for boxes from TJNulls HackTheBox
 
 For those preparing for OSCP, this is a great way to learn methodologies, techniques, commands and more that I use in penetration tests.
 
-Note that these writeupes assumes that the reader has a basic knowledge of penetration-testing, networking and general IT.
+Note that these writeups assumes that the reader has a basic knowledge of penetration-testing, networking and general IT.
